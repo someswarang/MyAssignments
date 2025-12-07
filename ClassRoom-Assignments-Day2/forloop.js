@@ -3,7 +3,8 @@
 for(let num=0;num<=30;num++){
 
     if (num%2!=0){
-        console.log ("Number is :"+num+" a odd number")
+        console.log ("Number is :"+num+" an odd number")
     }
     
+
 }
